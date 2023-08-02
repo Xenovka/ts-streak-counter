@@ -1527,6 +1527,11 @@
   dependencies:
     "@types/yargs-parser" "*"
 
+"@xenovka/ts-streak-counter@^0.0.1":
+  version "0.0.1"
+  resolved "https://registry.npmjs.org/@xenovka/ts-streak-counter/-/ts-streak-counter-0.0.1.tgz"
+  integrity sha512-T3n6g2RgUng1q9fyoUQhZ9A4VH2yuAapGyNRPvyT7mRW2s8C+OFEBC0HrJd3uAF+1tKSwlRz9VdP5JfbqIUXBQ==
+
 abab@^2.0.6:
   version "2.0.6"
   resolved "https://registry.npmjs.org/abab/-/abab-2.0.6.tgz"

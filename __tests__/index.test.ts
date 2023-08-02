@@ -1,5 +1,5 @@
 import { JSDOM } from "jsdom";
-import { streakCounter } from "../src/index";
+import { streakCounter } from "@xenovka/ts-streak-counter";
 import { formattedDate } from "../src/utils";
 
 describe("steakCounter", () => {
